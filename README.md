@@ -85,3 +85,8 @@ Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispo
 
 # 6. Conclusão
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO. Da visão da Empresa, podemos concluir que o número de pedidos cresceu entre a semana 06 e a semana 13 do ano de 2022.
+
+# 7. Próximo passos
+1. Reduzir o número de métricas
+2. Criar novos filtros.
+3. Adicionar novas visões de negócio.
