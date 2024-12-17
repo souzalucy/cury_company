@@ -79,7 +79,9 @@ g. Tempo médio do entregador mais rápido por cidade.
 3. As maiores variações no tempo de entrega, acontecem durante o clima ensolado.
 5. O produto final do projeto
 
-### Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. O painel pode ser acessado através desse link: https://project-currycompany.streamlit.app/
+# 5. O produto final do projeto
+Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet.
+### O painel pode ser acessado através desse link: https://project-currycompany.streamlit.app/
 
 # 6. Conclusão
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO. Da visão da Empresa, podemos concluir que o número de pedidos cresceu entre a semana 06 e a semana 13 do ano de 2022.
